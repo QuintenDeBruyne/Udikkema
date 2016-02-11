@@ -9,5 +9,8 @@
  * @author Quinten De Bruyne
  */
 public class Test {
+    public static void main(String[] args) {
+        
+    }
     
 }
